@@ -1,6 +1,10 @@
 # Solidity AST Generator 
 
+## Overview 
 
+`$ sh parse.sh`
+
+### Output
 ```json
 {
   "type": "Program",
@@ -186,3 +190,6 @@
   ]
 }
 ```
+
+## License 
+ISC
