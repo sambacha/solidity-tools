@@ -1,3 +1,5 @@
+/** https://gist.github.com/chriseth/ea98864522d53e49c8450cf123f46c46 */
+
 #include <iostream>
 #include <vector>
 #include <optional>
