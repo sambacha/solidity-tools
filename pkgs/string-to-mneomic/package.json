@@ -1,0 +1,23 @@
+{
+  "name": "string-mneomic-maker",
+  "version": "0.1.0",
+  "description": "Convert ascii strings into bip39 phrases.",
+  "license": "ISC",
+  "repository": "https://github.com/sambacha/solidity-tools/pkgs/string-to-mneomic",
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "bip39",
+    "ascii",
+    "string",
+    "mneomic"
+  ],
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
