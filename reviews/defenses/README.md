@@ -17,7 +17,7 @@
 
 <br>
 
-![](images/figure_3png)
+![](images/figure_3.png)
 
 <br>
 
