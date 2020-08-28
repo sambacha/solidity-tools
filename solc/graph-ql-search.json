@@ -1,0 +1,21 @@
+{
+  viewer {
+    login
+  }
+  repository(name: "solidity", owner: "ethereum") {
+    releases(orderBy: {field: CREATED_AT, direction: ASC}, last: 10) {
+      edges {
+        node {
+          id
+          description
+          createdAt
+          name
+          publishedAt
+          resourcePath
+          tagName
+          url
+        }
+      }
+    }
+  }
+}
